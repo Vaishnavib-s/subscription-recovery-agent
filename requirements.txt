@@ -1,0 +1,6 @@
+Flask
+python-dotenv
+pandas
+streamlit
+groq
+openai
