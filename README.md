@@ -95,6 +95,6 @@ Test Mode is used for integration testing, while the batch runner provides repea
 
 ## Run it
 pip install -r requirements.txt
-# add RAZORPAY_KEY_ID, RAZORPAY_KEY_SECRET, GROQ_API_KEY to .env
+add RAZORPAY_KEY_ID, RAZORPAY_KEY_SECRET, GROQ_API_KEY to .env
 python batch_runner.py
 streamlit run streamlit_app.py
